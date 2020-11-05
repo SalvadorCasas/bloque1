@@ -1,0 +1,33 @@
+EXAMEN BLOQUE 1
+
+RESPUESTAS
+---------------------------------------
+1) // 
+
+2) Es un atributo de los datos que indica al ordenador sobre la clase de datos que se va
+a manejar.
+
+3) "77"
+
+4) Es el proceso de anexar una cadena al final de otra cadena
+
+5) true
+
+6) false
+
+7) false
+
+8) true
+
+9) =!
+
+10) El primero se usa para asignar un valor y el segundo para comparar dos valores
+
+11) Un diagrama de flujo es un diagrama que describe un proceso, sistema o algoritmo
+informático
+
+12) La memoria RAM es una memoria volátil y la ROM es una memoria no volátil
+
+13) Son lenguajes que ejecutan sus algoritmos teniendo en cuenta las capacidades
+cognitivas de los seres humanos y no teniendo en cuenta las capacidades de los
+ordenadores de ejecutar las órdenes
